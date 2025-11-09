@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "backend/user-service",
+    "backend/cart-service",
+    "backend/order-service",
+    "frontend",
+    "backend/product-service"
+  ],
+}
